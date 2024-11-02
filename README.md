@@ -18,6 +18,9 @@
 - Python
 - SQL
 - R
+- Tableau
+- Power Bi
+- Excel
 
 
 <h3 align="center">Connect with me:</h3>
