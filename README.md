@@ -57,14 +57,6 @@
       height="40"
     />
 
-
-  <img
-    src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
-    width="40"
-    height="40"
-    alt="vscode"
-
-  />
   <img
     src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg"
     height="40"
