@@ -47,21 +47,19 @@
     alt="GitHub"
     title="GitHub"
   />
-
-  </a>
   <a href="https://python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-      alt="python"
+      alt="Python"
       width="40"
       height="40"
     />
-
+  </a>
   <img
     src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg"
     height="40"
     width="40"
-    alt="Mysql"
-    title="Mysql"
+    alt="MySQL"
+    title="MySQL"
   />
 </p>
