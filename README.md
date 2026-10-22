@@ -67,18 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace these with your real projects. Pin your best 4-6 repos too. -->
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Project One**](https://github.com/Albertbuluma/your-repo) | One line on the problem you solved and the result | Python, scikit-learn |
-| [**Project Two**](https://github.com/Albertbuluma/your-repo) | One line on the problem you solved and the result | SQL, Tableau |
-| [**Project Three**](https://github.com/Albertbuluma/your-repo) | One line on the problem you solved and the result | Python, PostgreSQL |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
